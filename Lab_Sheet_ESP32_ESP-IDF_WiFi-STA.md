@@ -203,7 +203,9 @@ void app_main(void)
 
 
 
+โปรแกรมที่ทำงานบน VS code ที่นำขึ้นบน git hub
 
+https://github.com/AnchisaPhetnoi/ESP32_ESP-IDF__WiFi-STA.git
 
 
 
