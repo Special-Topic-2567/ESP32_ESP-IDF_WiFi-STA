@@ -1,0 +1,84 @@
+
+ho 8 tail 4 room 4
+load:0x40080404,len:3904     
+entry 0x40080640
+I (31) boot: ESP-IDF v5.2.2 2nd stage bootloader
+I (31) boot: compile time Sep 19 2024 14:17:20
+I (31) boot: Multicore bootloader
+I (35) boot: chip revision: v1.0
+I (39) boot.esp32: SPI Speed      : 40MHz
+I (43) boot.esp32: SPI Mode       : DIO
+I (48) boot.esp32: SPI Flash Size : 2MB
+I (52) boot: Enabling RNG early entropy source...
+I (58) boot: Partition Table:
+I (61) boot: ## Label            Usage          Type ST Offset   Length
+I (69) boot:  0 nvs              WiFi data        01 02 00009000 00006000
+I (76) boot:  1 phy_init         RF data          01 01 0000f000 00001000
+I (84) boot:  2 factory          factory app      00 00 00010000 00100000
+I (91) boot: End of partition table
+I (95) esp_image: segment 0: paddr=00010020 vaddr=3f400020 size=1ef84h (126852) map
+I (147) esp_image: segment 1: paddr=0002efac vaddr=3ffb0000 size=0106ch (  4204) load
+I (149) esp_image: segment 2: paddr=00030020 vaddr=400d0020 size=822e4h (533220) map
+I (336) esp_image: segment 3: paddr=000b230c vaddr=3ffb106c size=02ae8h ( 10984) load
+I (340) esp_image: segment 4: paddr=000b4dfc vaddr=40080000 size=16830h ( 92208) load
+I (389) boot: Loaded app from partition at offset 0x10000
+I (389) boot: Disabling RNG early entropy source...
+I (400) cpu_start: Multicore app
+I (409) cpu_start: Pro cpu start user code
+I (409) cpu_start: cpu freq: 160000000 Hz
+I (409) cpu_start: Application information:
+I (412) cpu_start: Project name:     ESP32_ESP-IDF_WiFi-STA
+I (419) cpu_start: App version:      09f6038-dirty
+I (424) cpu_start: Compile time:     Sep 19 2024 14:16:53
+I (430) cpu_start: ELF file SHA256:  567e86d9c...
+--- Warning: Checksum mismatch between flashed and built applications. Checksum of built application is 27820e00d484096062cb48a16e392508d5647c83a8a817bf777dc52072558de3
+I (436) cpu_start: ESP-IDF:          v5.2.2
+I (440) cpu_start: Min chip rev:     v0.0
+I (445) cpu_start: Max chip rev:     v3.99 
+I (450) cpu_start: Chip rev:         v1.0
+I (455) heap_init: Initializing. RAM available for dynamic allocation:
+I (462) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM
+I (468) heap_init: At 3FFB7C28 len 000283D8 (160 KiB): DRAM
+I (474) heap_init: At 3FFE0440 len 00003AE0 (14 KiB): D/IRAM
+I (480) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM
+I (487) heap_init: At 40096830 len 000097D0 (37 KiB): IRAM
+I (495) spi_flash: detected chip: generic
+I (498) spi_flash: flash io: dio
+W (502) spi_flash: Detected size(4096k) larger than the size in the binary image header(2048k). Using the size in the binary image header.
+I (516) main_task: Started on CPU0
+I (526) main_task: Calling app_main()
+I (566) wifi softAP: ESP_WIFI_MODE_AP
+I (586) wifi:wifi driver task: 3ffbfc9c, prio:23, stack:6656, core=0
+I (606) wifi:wifi firmware version: 3e0076f
+I (606) wifi:wifi certification version: v7.0
+I (606) wifi:config NVS flash: enabled
+I (606) wifi:config nano formating: disabled
+I (616) wifi:Init data frame dynamic rx buffer num: 32
+I (616) wifi:Init static rx mgmt buffer num: 5
+I (626) wifi:Init management short buffer num: 32
+I (626) wifi:Init dynamic tx buffer num: 32
+I (626) wifi:Init static rx buffer size: 1600
+I (636) wifi:Init static rx buffer num: 10
+I (636) wifi:Init dynamic rx buffer num: 32
+I (646) wifi_init: rx ba win: 6
+I (646) wifi_init: tcpip mbox: 32
+I (646) wifi_init: udp mbox: 6
+I (656) wifi_init: tcp mbox: 6
+I (656) wifi_init: tcp tx win: 5760
+I (656) wifi_init: tcp rx win: 5760
+I (666) wifi_init: tcp mss: 1440
+I (666) wifi_init: WiFi IRAM OP enabled
+I (676) wifi_init: WiFi RX IRAM OP enabled
+I (686) phy_init: phy_version 4791,2c4672b,Dec 20 2023,16:06:06
+I (766) wifi:mode : softAP (58:bf:25:8c:13:d5)
+I (916) wifi:Total power save buffer number: 16
+I (916) wifi:Init max length of beacon: 752/752
+I (916) wifi:Init max length of beacon: 752/752
+I (916) wifi softAP: wifi_init_softap finished. SSID:AIS 4G Hi-Speed Home WiFi_769475 password:50769475 channel:1
+I (916) esp_netif_lwip: DHCP server started on interface WIFI_AP_DEF with IP: 192.168.4.1
+<<<<<<< HEAD
+I (936) main_task: Returned from app_main()
+=======
+
+I (936) main_task: Returned from app_main()
+>>>>>>> f2676580336961645a807a23175a83985b071e52
