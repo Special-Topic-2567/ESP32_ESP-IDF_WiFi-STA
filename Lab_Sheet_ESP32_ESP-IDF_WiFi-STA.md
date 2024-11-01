@@ -189,11 +189,26 @@ void app_main(void)
 
 ### 1. ทำที่มหาลัยโดยใช้ เราต์เตอร์ WiFi Ais ในการเชื่อมต่อ
 
+![462547300_388964734182196_2887552636389704187_n](https://github.com/user-attachments/assets/7d09b430-32a9-44cb-aa84-0be848727d54)
 
 
+![462566792_2803548789818647_6028728299940093707_n](https://github.com/user-attachments/assets/f355168d-154e-4171-bd64-364eebe59e15)
 
 
+![462543680_2614029942319758_5667074555521716548_n](https://github.com/user-attachments/assets/fedef5c6-7efa-4ead-a9df-dbe8163e8600)
 
+![462548358_476783948062264_5537232092815006658_n](https://github.com/user-attachments/assets/55a393fb-2e51-4f1b-a1e4-948c2223820f)
+
+![462565823_1080823326828678_5546521908062438162_n](https://github.com/user-attachments/assets/643ead5e-3104-4655-8898-8d6aed405a4e)
+
+
+![462638996_3947606245511629_4750825591737058650_n](https://github.com/user-attachments/assets/cf17d7f8-0b49-469a-ae88-81324ae30211)
+
+![462578660_532362389685323_7591263226418920899_n](https://github.com/user-attachments/assets/55ba6171-57e5-40f2-abb4-411528538659)
+
+![462569814_424143610514982_4912579447844577156_n](https://github.com/user-attachments/assets/90070a5f-adcf-4fc8-94f0-c0450c074f07)
+
+![462572836_819342610164048_3669393909528594181_n](https://github.com/user-attachments/assets/5e09eba8-c705-4122-a7c8-1ca7aaa7fa39)
 
 
 โปรแกรมที่ทำงานบน VS code ที่นำขึ้นบน git hub
