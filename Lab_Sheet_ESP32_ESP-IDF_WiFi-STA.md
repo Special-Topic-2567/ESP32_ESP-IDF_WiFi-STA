@@ -195,7 +195,6 @@ void app_main(void)
 
 ![462578660_532362389685323_7591263226418920899_n](https://github.com/user-attachments/assets/55ba6171-57e5-40f2-abb4-411528538659)
 
-![462569814_424143610514982_4912579447844577156_n](https://github.com/user-attachments/assets/90070a5f-adcf-4fc8-94f0-c0450c074f07)
 
 ![462572836_819342610164048_3669393909528594181_n](https://github.com/user-attachments/assets/5e09eba8-c705-4122-a7c8-1ca7aaa7fa39)
 
