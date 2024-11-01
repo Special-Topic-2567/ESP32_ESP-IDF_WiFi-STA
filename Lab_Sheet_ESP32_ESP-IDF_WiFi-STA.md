@@ -183,3 +183,27 @@ void app_main(void)
 #define EXAMPLE_ESP_WIFI_PASS      "___Wifi_password_"
 
 ```
+
+## ผลลัพน์
+
+
+![image](https://github.com/user-attachments/assets/3e3a1380-d1b9-4c4d-8f38-a6b4daa0cde4)
+
+
+
+![image](https://github.com/user-attachments/assets/49fa6a6f-509f-4516-83a3-11ec5f8ebe1f)
+
+
+
+![image](https://github.com/user-attachments/assets/cdfe3a5f-e478-4e09-835e-699e7f4bc0b7)
+
+
+
+จะเห็นว่ามีการเชื่อม ต่อกับ อินเตอร์เน็ต และมีการแสดง ที่อยูา ชื่อ รหัสขึ้นมา 
+
+
+
+
+
+
+
