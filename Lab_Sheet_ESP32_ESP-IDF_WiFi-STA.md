@@ -187,6 +187,21 @@ void app_main(void)
 ## ผลลัพน์
 
 
+### 1. ทำที่มหาลัยโดยใช้ เราต์เตอร์ WiFi Ais
+
+
+
+
+
+
+
+
+โปรแกรมที่ทำงานบน VS code ที่นำขึ้นบน git hub
+
+
+
+### 2. ทำการอินเจอร์เน็ตโทรศัพน์มือถือ
+
 ![image](https://github.com/user-attachments/assets/3e3a1380-d1b9-4c4d-8f38-a6b4daa0cde4)
 
 
