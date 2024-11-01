@@ -215,6 +215,9 @@ void app_main(void)
 
 https://github.com/AnchisaPhetnoi/ESP32__ESP-IDF_WiFi-STA.git
 
+![image](https://github.com/user-attachments/assets/373747eb-9a6d-4fb8-a631-0e76859cd327)
+
+
 
 ### 2. ทำการเชื่อมกับอินเตอร์เน็ตโทรศัพน์มือถือ
 
