@@ -187,7 +187,7 @@ void app_main(void)
 ## ผลลัพน์
 
 
-### 1. ทำที่มหาลัยโดยใช้ เราต์เตอร์ WiFi Ais
+### 1. ทำที่มหาลัยโดยใช้ เราต์เตอร์ WiFi Ais ในการเชื่อมต่อ
 
 
 
@@ -198,9 +198,10 @@ void app_main(void)
 
 โปรแกรมที่ทำงานบน VS code ที่นำขึ้นบน git hub
 
+https://github.com/AnchisaPhetnoi/ESP32__ESP-IDF_WiFi-STA.git
 
 
-### 2. ทำการอินเจอร์เน็ตโทรศัพน์มือถือ
+### 2. ทำการเชื่อมกับอินเตอร์เน็ตโทรศัพน์มือถือ
 
 ![image](https://github.com/user-attachments/assets/3e3a1380-d1b9-4c4d-8f38-a6b4daa0cde4)
 
